@@ -1,6 +1,7 @@
 # README
-## This is the README for your extension "my-new-theme"
-Non trovando un tema che mi soddisfi totalmente, sto provando a prendere le "colorazioni" migliori di alcuni temi già esistenti, provandoli sulla base del tema creato tramite il modulo di Nodejs, Yeoman, installandolo nel seguente modo:
+## This is the README for your extension "my-new-theme", for Visual STudio Code
+
+Non trovando un tema per VCode che mi soddisfi totalmente, sto provando a prendere le "colorazioni" migliori di alcuni temi già esistenti, provandoli sulla base del tema creato tramite il modulo di Nodejs, Yeoman, installandolo nel seguente modo:
 
 "npm install -g yo generator-code"
 
